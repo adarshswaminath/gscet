@@ -17,7 +17,7 @@ function Event() {
                 Provide participants with beginner-friendly coding projects, tutorials, and online resources.
               </li>
               <li className="mb-2">
-                Offer guidance through Google Chat, GPT, YouTube tutorials, and a dedicated core team to assist participants when they encounter challenges.
+                Offer guidance through Google, ChatGPT, YouTube tutorials, and a dedicated core team to assist participants when they encounter challenges.
               </li>
             </ul>
           </div>

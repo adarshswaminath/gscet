@@ -25,11 +25,11 @@ const Card = ({image,title,caption}) => {
 
 function Goals() {
   return (
-    <div className="px-4 py-8">
+    <div className="p-2">
       <h2 className="text-2xl font-semibold text-center">
         Goals and Objectives
       </h2>
-      <div className="grid grid-cols-1 lg:grid-cols-3 text-center">
+      <div className="grid gap-3 lg:flex items-center justify-center text-center ">
         <Card 
             image={image1} 
             title="Promote Coding Skills"

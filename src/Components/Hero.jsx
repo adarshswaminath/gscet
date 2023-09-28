@@ -17,7 +17,7 @@ function Hero() {
               primary objective is to provide them with an initial push towards
               self-learning and the development of coding skills.
             </p>
-            <button className="btn rounded-full">Duration: 8 hours</button>
+            <button className="btn rounded-full">9 AM to 4 PM</button>
           </div>
           <div className="lg:mt-0 lg:col-span-5 lg:flex">
             <Lottie animationData={Aniamtion} loop={true} />

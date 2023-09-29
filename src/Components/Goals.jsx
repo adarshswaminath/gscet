@@ -25,7 +25,7 @@ const Card = ({image,title,caption}) => {
 
 function Goals() {
   return (
-    <div className="p-2">
+    <div className="p-2" id="goals">
       <h2 className="text-2xl font-semibold text-center">
         Goals and Objectives
       </h2>

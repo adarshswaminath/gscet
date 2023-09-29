@@ -2,7 +2,7 @@ import React from "react";
 
 function Challenges() {
   return (
-    <div className="p-2">
+    <div className="p-2" id="challenges">
       <h3 className="text-center font-bold text-xl">Challenges</h3>
      <div className="grid lg:flex justify-center lg:gap-6 items-center ">
      <ul className="steps steps-vertical">

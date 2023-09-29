@@ -25,7 +25,6 @@ function Navbar() {
         <h1 className='text-xl font-bold bg-clip-text text-transparent bg-gradient-to-tr from-blue-400 to-indigo-800'>CodeIgnite.</h1>
         <div className="flex items-center space-x-5 font-medium">
             <a href="#about" className='text-blue-500 smooth-scroll-link'>About</a>
-            <a href="#goals" className='text-blue-500 smooth-scroll-link'>Goals</a>
             <a href="#event" className='text-blue-500 smooth-scroll-link'>Event</a>
             <a href="#challenges" className='text-blue-500 smooth-scroll-link'>Challenges</a>
         </div>

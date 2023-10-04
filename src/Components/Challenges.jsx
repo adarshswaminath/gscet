@@ -21,6 +21,11 @@ function Challenges() {
         <li className="step">Interactive Navbar</li>
       </ul>
      </div>
+     <div className="mt-4 flex items-center justify-center">
+        <a href="ttps://docs.google.com/forms/d/e/1FAIpQLSeOhtXWYTcEp2xphsTdl5pNmu2TdgVhD93KlYpW1ErUvlzkPA/viewform?usp=sf_link" target="_blank">
+        <button className="btn rounded-full bg-blue-500 hover:bg-blue-800 text-white">Register Now</button>
+        </a>
+      </div>
     </div>
   );
 }
